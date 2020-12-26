@@ -10,6 +10,7 @@ Welcome to eternally's documentation!
    :maxdepth: 3
 
    intro
+   intro2
    sample
    sample2
    another
