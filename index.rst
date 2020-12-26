@@ -12,5 +12,6 @@ Welcome to eternally's documentation!
    intro
    sample
    another
+   ananother
 
 
