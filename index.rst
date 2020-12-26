@@ -7,7 +7,7 @@ Welcome to blog's documentation!
 ================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 5
    :caption: Contents:
 
    preface.rst
