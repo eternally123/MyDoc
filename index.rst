@@ -11,6 +11,7 @@ Welcome to eternally's documentation!
 
    intro
    sample
+   sample2
    another
    ananother
 
