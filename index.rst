@@ -7,9 +7,10 @@ Welcome to eternally's documentation!
 =====================================
 
 .. toctree::
-   :maxdepth: 5
+   :maxdepth: 3
 
    intro
    sample
+   another
 
 
